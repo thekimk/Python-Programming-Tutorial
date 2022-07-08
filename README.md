@@ -4,7 +4,7 @@
 - **김경원 소개:** [Homepage](https://sites.google.com/view/thekimk)
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
 > - `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션` 위한 `개인정보/전화번호/이메일` LMS 시스템 `업데이트 필수` (`본인 책임`)    
-- **이론 및 실습 자료:** [Github Repositories](https://github.com/cheonbi?tab=repositories) 목록에서 강의에 맞춰 선택
+- **이론 및 실습 자료:** [Github Repositories](https://github.com/?tab=repositories) 목록에서 강의에 맞춰 선택
 
 ---
 
