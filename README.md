@@ -1,9 +1,10 @@
 ## ✔️ CHECK
 ---
 #### 📚 Lecture Material & Environment
+- **김경원 소개:** [Homepage](https://sites.google.com/view/thekimk)
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
-- **이론 및 실습 자료:** [Repositories in Github](https://github.com/cheonbi?tab=repositories)
-- **개인정보 업데이트:** `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션` 위한 `전화번호/이메일` 시스템 업데이트 (`본인 책임`)    
+> - `수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션` 위한 `개인정보/전화번호/이메일` LMS 시스템 `업데이트 필수` (`본인 책임`)    
+- **이론 및 실습 자료:** [Github Repositories](https://github.com/cheonbi?tab=repositories) 목록에서 강의에 맞춰 선택
 
 ---
 
@@ -32,10 +33,12 @@
 #### ❓ Question and Talk    
 - `근황 및 캐주얼토크`, `강의질문`, `강의외 질문`이나 `인생 면담` 등 포함    
 - **[온라인]** 아래 `5종 Contact 채널`을 `클릭`하여 진행 가능하며 `일정만 정하고` 오프라인으로도 가능    
-(1) **[스타인유](https://starinu.inu.ac.kr/index.do):** `공식` 상담신청 및 결과공유 `플랫폼`이나 (매우느린 언젠가)    
-(2) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 확인 가능 (`빠른 실시간`)    
-(3) **[INU LMS](http://cyber.inu.ac.kr/) 내 메시지:** (`느린 실시간`)         
-(4) **이메일:** thekink.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
-(5) **전화:** 032-835-8525 (`긴급 실시간`)        
-(6) **[Github](https://github.com/thekimk/KK-Insight):** Github 저장소 `크크인싸이트` 관련내용 공유중 또는 토론 가능
+>
+> (1) **[스타인유](https://starinu.inu.ac.kr/index.do):** `공식` 상담신청 및 결과공유 `플랫폼`이나 (매우느린 언젠가)  
+> (2) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 확인 가능 (`빠른 실시간`)    
+> (3) **[INU LMS](http://cyber.inu.ac.kr/) 내 메시지:** (`느린 실시간`)         
+> (4) **이메일:** thekink.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
+> (5) **전화:** 032-835-8525 (`긴급 실시간`)        
+> (6) **[Github](https://github.com/thekimk/KK-Insight):** Github 저장소 중 하나인 `크크인싸이트(KK-Insight)`에 관련내용 공유중 또는 토론 가능
+>
 - **[오프라인]** 수업 전/중/후 바로 `언제든` 가능하지만, 위 채널들로 미리 `일정잡고 오피스(14호관 422호)`에서 진행    
