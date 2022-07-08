@@ -1,12 +1,10 @@
 ## ✔️ CHECK
----
 ### 📚 Lecture Material & Environment
 - **김경원 소개:** [Homepage](https://sites.google.com/view/thekimk)
 - **공지사항 및 강의영상:** [INU LMS](http://cyber.inu.ac.kr/)
 > "`수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션` 위한 `개인정보/전화번호/이메일` LMS 시스템 `업데이트 필수` (`본인 책임`)"
 - **이론 및 실습 자료:** [Github Repositories](https://github.com/thekimk?tab=repositories) 목록에서 강의에 맞춰 선택
 
----
 
 ### ✋ Direction 
 - **[방식]:** `온라인+오프라인 혼합형`으로 전체 수업중 `9주는 온라인`으로 `6주는 오프라인`으로 진행    
@@ -28,7 +26,6 @@
 > (2) 과제나 시험의 `난이도가 쉽든 어렵든` 결국 `등수로 평가`하기에 `절대점수`에 부담가질 필요 없음     
 > (3) `10점 받아도 1등(A+)`일 수 있고 `90점 받아도 꼴등(F)`일 수 있기에 `그저 즐기다가 끝나면 빨리 나가 놀면 됨`     
 
----
 
 ### ❓ Question and Talk    
 - `근황 및 캐주얼토크`, `강의질문`, `강의외 질문`이나 `인생 면담` 등 포함    
