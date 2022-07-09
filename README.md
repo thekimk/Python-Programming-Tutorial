@@ -7,11 +7,11 @@
 
 | 수업명 | Repositories |
 |---|---|
-| E정보시스템 | [이론] Python-Programming-Tutorial <br> [실습] Python-Programming-Tutorial |
-| E데이터베이스 | [이론] <br> [실습] |
-| 빅데이터 | [이론] <br> [실습] |
-| 비즈니스혁신을위한데이터사이언스응용 | [이론] <br> [실습] |
-| 인공지능활용디지털경제플랫폼연구 | [이론] <br> [실습] |
+| **E정보시스템** | [이론] Python-Programming-Tutorial <br> [실습] Python-Programming-Tutorial |
+| **E데이터베이스** | [이론] <br> [실습] |
+| **빅데이터** | [이론] <br> [실습] |
+| **비즈니스혁신을위한데이터사이언스응용** | [이론] <br> [실습] |
+| **인공지능활용디지털경제플랫폼연구** | [이론] <br> [실습] |
 
 ---
 
