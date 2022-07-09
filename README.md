@@ -5,6 +5,14 @@
 > "`수업 관련` 공지/이메일/메시지 전달 및 `커뮤니케이션` 위한 `개인정보/전화번호/이메일` LMS 시스템 `업데이트 필수` (`본인 책임`)"
 - **이론 및 실습 자료:** [Github Repositories](https://github.com/thekimk?tab=repositories) 목록에서 강의에 맞춰 선택
 
+| 수업명 | Repositories |
+|---|---|
+| E정보시스템 | [이론] Python-Programming-Tutorial <br> [실습] Python-Programming-Tutorial |
+| E데이터베이스 | [이론] <br> [실습] |
+| 빅데이터 | [이론] <br> [실습] |
+| 비즈니스혁신을위한데이터사이언스응용 | [이론] <br> [실습] |
+| 인공지능활용디지털경제플랫폼연구 | [이론] <br> [실습] |
+
 ---
 
 ### ✋ Direction 
